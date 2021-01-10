@@ -10,6 +10,8 @@ Skills: REACT / JS / HTML / CSS /
 - 🤔 I’m looking for help with land 
 - 📫 How to reach me: nikhil.patel814@gmail.com 
 
+Lets Code! <img src="http://gph.is/1LRrFMT" width="256" />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikhilpatel87)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nikhil_p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhilpatel87/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nikhil_p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.nikhilpatel.tech)  
 
